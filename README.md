@@ -1,8 +1,9 @@
 # SpikingNeuralNet
+PyTorch implementation of spiking neural net. 
 
-PyTorch implementation of spiking neural net. This code contains download from Google Colab. 
+This code contains a raw download from an existing Google Colab. 
 
-***NOTE:*** Currently in development
+***NOTE:*** This project is currently in development and not ready for use.
 
 ## Details
 Implements an Unsupervised Spiking Neural Network in PyTorch. Trains synaptic weights over MNIST data set.
